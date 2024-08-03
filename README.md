@@ -1,0 +1,2 @@
+# XCSoar
+mi version
